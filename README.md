@@ -1,1 +1,0 @@
-echo "# Tutedude-Tutorial"
